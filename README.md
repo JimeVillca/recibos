@@ -4,10 +4,16 @@ Algunas  Funcionalidades:
 
 Alta  de usuarios
 Modificar  datos de usuario.
+
 Eliminar datos de usuario
+
 Consultar usuarios
- Firma masiva/individual de recibos (empleado)
- Firma individual de recibos (empleado)
+
+ Firma masiva/individual de recibos (empleado) Firma individual de recibos (emplead
+
+
+
+
  Visualización de recibos
  Impresión de recibos
  Consulta de recibos en pantalla filtrando estados y fechas
