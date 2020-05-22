@@ -3,26 +3,25 @@ Objetivo :  Crear recibos de sueldo
 Algunas  Funcionalidades:
 
 Alta  de usuarios
+
 Modificar  datos de usuario.
 
 Eliminar datos de usuario
 
 Consultar usuarios
 
- Firma masiva/individual de recibos (empleado) Firma individual de recibos (empleado
+Firma masiva/individual de recibos (empleado)
 
- Visualización de recibos
+Firma individual de recibos (empleado
 
- Impresión de recibos
+Visualización de recibos
 
- Consulta de recibos en pantalla filtrando estados y fechas
+Impresión de recibos
 
- Notificaciones de recibo nuevo.
+Consulta de recibos en pantalla filtrando estados y fechas
 
- Notificaciones de recibo firmado en conformidad/disconformidad
+Notificaciones de recibo nuevo.
 
- Notificaciones de certificado vencido y próximo a vencer
+Notificaciones de recibo firmado en conformidad/disconformidad
 
- Deshabilitación de notificaciones
-
-Importacion de datos externos de  recibos.
+Importacion de datos externos de  recibos.
