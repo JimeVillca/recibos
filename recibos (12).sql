@@ -41,6 +41,7 @@ CREATE TABLE `concepto` (
   `periodo` varchar(25) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
+
 --
 -- Volcado de datos para la tabla `concepto`
 --
