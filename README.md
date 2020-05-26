@@ -1,27 +1,24 @@
-# recibos
+# Recibos
 Objetivo :  Crear recibos de sueldo
+TRELLO :  https://trello.com/b/91CnYBfk/hedlan-recibos
+
 Algunas  Funcionalidades:
 
-Alta  de usuarios
-
-Modificar  datos de usuario.
-
-Eliminar datos de usuario
-
-Consultar usuarios
-
-Firma masiva/individual de recibos (empleado)
-
-Firma individual de recibos (empleado
-
-Visualización de recibos
-
-Impresión de recibos
-
-Consulta de recibos en pantalla filtrando estados y fechas
-
-Notificaciones de recibo nuevo.
-
-Notificaciones de recibo firmado en conformidad/disconformidad
-
-Importacion de datos externos de  recibos.
+	Alta de usuarios
+	Modificar usuarios
+	Baja de usuarios
+	Consulta de usuarios
+	Agregado masivo de recibos
+	Firma masiva de recibos
+	Firma individual de recibos
+	Consulta de recibos.
+	Visualización de recibos
+	Notificaciones de recibo nuevo.
+	Generación de recibos de sueldo.
+	Importación de datos de usuario.
+	Registrar firma de usuarios.
+	Consulta de datos importados.
+	Alta de conceptos
+	Modificar conceptos.
+	Baja de usuarios.
+	Calculo de sueldo.
