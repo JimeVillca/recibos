@@ -24,7 +24,7 @@ Algunas  Funcionalidades:
 
 	Notificaciones de recibo nuevo.
 
-	Generación de recibos de sueldo.
+	Generación de recibos.
 
 	Importación de datos de usuario.
 
