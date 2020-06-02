@@ -1,5 +1,5 @@
 # Recibos
-Objetivo :  Crear recibos de sueldo
+Objetivo :  Crear recibos
 TRELLO :  https://trello.com/b/91CnYBfk/hedlan-recibos
 
 Algunas  Funcionalidades:
